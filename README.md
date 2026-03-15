@@ -18,6 +18,10 @@ Technologies:
 - BeautifulSoup
 - pandas
 
+Installation:
+
+python3 -m pip install -r requirements.txt
+
 How to run:
 
 python3 src/scrape_books.py
